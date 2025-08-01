@@ -126,7 +126,7 @@ section {
   border-radius: 40px;
   background: none;
 }
-.btn1 button[type="submit"] {
+.btn1 [type="submit"] {
   background-color: transparent;
   font-size: 15px;
   font-weight: 500;
